@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MZjyMwq4uRqFsXyWyBALra9tRP6GGO4z2D+1CxUiLfk=",
+  "Source": "GovApi",
+  "BasePath": "_content/GovApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
